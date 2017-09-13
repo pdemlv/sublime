@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"SHS-Bourbon",
+		"SHS-Bourbon-Neat",
+		"SHS-Compass-Mixins",
+		"SHS-Compass-Variables",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
+}
